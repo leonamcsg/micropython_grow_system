@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.diagnosticSeverityOverrides": {
+        	"reportMissingModuleSource": "none"
+    	},
+		"python.analysis.extraPaths": ["frozen_modules"],
+	}
+}
